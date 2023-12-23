@@ -15,9 +15,6 @@ MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器�
 
 ### 相关链接
 -----
-**在线演示** [http://lab.mkblog.cn/music/](http://lab.mkblog.cn/music/)
-
-**详细介绍** [http://mkblog.cn/1060/](http://mkblog.cn/1060/)
 
 **GitHub** [https://github.com/mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
 
@@ -43,18 +40,18 @@ nodejs crypto crypto-js request express
 -----
 **网易云音乐源播放失效，歌曲列表只剩一首歌**
 
-解决办法参考 [网易云音乐问题](https://github.com/mengkunsoft/MKOnlineMusicPlayer/wiki/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E9%97%AE%E9%A2%98)
-
+第三方api寄了，欢迎贡献新的api
 
 **更多常见问题**
 
-[请前往 wiki 查阅](https://github.com/mengkunsoft/MKOnlineMusicPlayer/wiki)
+[请前往 wiki 查阅]()
 
 ### 待解决的问题
 -----
 - 歌曲音质切换功能
 - IOS 歌曲播放问题
 - wyy第三方api失效，migu等api未开发
+
 ### 打赏
 -----
 拒绝打赏
