@@ -7,5 +7,10 @@
     "start": "node main"
   },
   "author": "Qi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "express": "^4.18.2"
+  }
 }
