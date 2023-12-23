@@ -1,0 +1,11 @@
+{
+  "name": "mkplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "Qi",
+  "license": "ISC"
+}

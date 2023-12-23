@@ -458,3 +458,4 @@ const weapi = (object) => {
 
 app.listen(3000);
 
+console.log('visit localhost:3000')
